@@ -1,7 +1,7 @@
 ## hh_parser_python
 
 <p align="center">
-      <img src="img_for_readme/logo.jpg" alt="Лого проекта">
+      <img src="img_for_readme/logo.png" alt="Лого проекта">
 </p>
 
 ## Описание
@@ -36,7 +36,7 @@ path_to_dir_vacancies = 'абсолютный путь до папки с про
 ## Использование
 
 <p align="center">
-      <img src="img_for_readme/01.jpg" alt="Лого проекта">
+      <img src="img_for_readme/01.png" alt="Лого проекта">
 </p>
 
 1. После актуализации данных, указанных в пункте 3 раздела "Установка" данного readme, запустите скрипт.
